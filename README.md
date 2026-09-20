@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**mateibarbu19/mateibarbu19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer. And aspiring scientist. Given my interest for hardware as well, I've been working in the industry on embedded and EDA software.
 
-Here are some ideas to get you started:
+We can talk anytime about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Functional/logic programming
+- Electronics
+- Hardware Description Languages
+- Nix
+- Rust
+- Education/teaching
+
+Here are a few of my principles:
+
+- Design right from _the beginning_ and make your maintenance life easier, later.
+- Hardware doesn't come for free, use it wisely.
+- There is always someone smarter. Find him/her. There is always someone kinder. Work with him/her.
